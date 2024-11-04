@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C2C65-7E3F-4016-8574-C72E2D783D2E}|DAL\\DAL.csproj|c:\\users\\lxrdu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\\products tomka\\reviewsapi\\dal\\services\\inmemorycacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C2C65-7E3F-4016-8574-C72E2D783D2E}|DAL\\DAL.csproj|solutionrelative:dal\\services\\inmemorycacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A19E2-D8BC-43F8-B1D2-8DC711A69B26}|PL\\PL.csproj|c:\\users\\lxrdu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\\products tomka\\reviewsapi\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1A19E2-D8BC-43F8-B1D2-8DC711A69B26}|PL\\PL.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A19E2-D8BC-43F8-B1D2-8DC711A69B26}|PL\\PL.csproj|c:\\users\\lxrdu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\\products tomka\\reviewsapi\\pl\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1A19E2-D8BC-43F8-B1D2-8DC711A69B26}|PL\\PL.csproj|solutionrelative:pl\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C2C65-7E3F-4016-8574-C72E2D783D2E}|DAL\\DAL.csproj|c:\\users\\lxrdu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\\products tomka\\reviewsapi\\dal\\services\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C2C65-7E3F-4016-8574-C72E2D783D2E}|DAL\\DAL.csproj|solutionrelative:dal\\services\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C2C65-7E3F-4016-8574-C72E2D783D2E}|DAL\\DAL.csproj|c:\\users\\lxrdu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\\products tomka\\reviewsapi\\dal\\data\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C2C65-7E3F-4016-8574-C72E2D783D2E}|DAL\\DAL.csproj|solutionrelative:dal\\data\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A19E2-D8BC-43F8-B1D2-8DC711A69B26}|PL\\PL.csproj|c:\\users\\lxrdu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\\products tomka\\reviewsapi\\pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C1A19E2-D8BC-43F8-B1D2-8DC711A69B26}|PL\\PL.csproj|solutionrelative:pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C2C65-7E3F-4016-8574-C72E2D783D2E}|DAL\\DAL.csproj|c:\\users\\lxrdu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\\products tomka\\reviewsapi\\dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C2C65-7E3F-4016-8574-C72E2D783D2E}|DAL\\DAL.csproj|solutionrelative:dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C2C65-7E3F-4016-8574-C72E2D783D2E}|DAL\\DAL.csproj|c:\\users\\lxrdu\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\project\\products tomka\\reviewsapi\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C2C65-7E3F-4016-8574-C72E2D783D2E}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CacheController.cs",
+              "DocumentMoniker": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\PL\\Controllers\\CacheController.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\CacheController.cs",
+              "ToolTip": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\PL\\Controllers\\CacheController.cs",
+              "RelativeToolTip": "PL\\Controllers\\CacheController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:47:17.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\DAL\\Data\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\DAL\\Data\\ReviewRepository.cs",
+              "RelativeToolTip": "DAL\\Data\\ReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:45:42.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\DAL\\Services\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\RedisCacheService.cs",
+              "ToolTip": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\DAL\\Services\\RedisCacheService.cs",
+              "RelativeToolTip": "DAL\\Services\\RedisCacheService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:49:53.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\PL\\Program.cs",
+              "RelativeDocumentMoniker": "PL\\Program.cs",
+              "ToolTip": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\PL\\Program.cs",
+              "RelativeToolTip": "PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:41:47.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\PL\\appsettings.json",
+              "RelativeDocumentMoniker": "PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\PL\\appsettings.json",
+              "RelativeToolTip": "PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T20:41:09.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\DAL\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\DAL\\Models\\Review.cs",
+              "RelativeToolTip": "DAL\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:38:17.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:38:06.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\DAL\\Services\\InMemoryCacheService.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\InMemoryCacheService.cs",
+              "ToolTip": "C:\\Users\\lxrdu\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Project\\Products tomka\\ReviewsAPI\\DAL\\Services\\InMemoryCacheService.cs",
+              "RelativeToolTip": "DAL\\Services\\InMemoryCacheService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:36:58.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

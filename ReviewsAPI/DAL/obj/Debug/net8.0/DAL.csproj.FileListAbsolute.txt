@@ -1,0 +1,48 @@
+C:\Users\Maksym\university\Andrew\Products\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Maksym\university\Andrew\Products\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Maksym\university\Andrew\Products\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Maksym\university\Andrew\Products\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Maksym\university\Andrew\Products\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksym\university\Andrew\Products\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Maksym\university\Andrew\Products\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Maksym\university\Andrew\Products\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\university\Andrew\Products\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Maksym\university\Andrew\Products\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Maksym\university\Andrew\Products\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Maksym\university\Andrew\Products\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Products\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\ReviewsAPI\DAL\obj\Debug\net8.0\ref\DAL.dll

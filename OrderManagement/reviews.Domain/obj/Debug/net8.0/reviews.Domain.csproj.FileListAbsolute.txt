@@ -1,0 +1,33 @@
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\bin\Debug\net8.0\reviews.Domain.deps.json
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\bin\Debug\net8.0\reviews.Domain.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\bin\Debug\net8.0\reviews.Domain.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.AssemblyInfoInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.AssemblyInfo.cs
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\obj\Debug\net8.0\refint\reviews.Domain.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Domain\obj\Debug\net8.0\ref\reviews.Domain.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\bin\Debug\net8.0\reviews.Domain.deps.json
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\bin\Debug\net8.0\reviews.Domain.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\bin\Debug\net8.0\reviews.Domain.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.AssemblyInfoInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.AssemblyInfo.cs
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\refint\reviews.Domain.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\ref\reviews.Domain.dll
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\bin\Debug\net8.0\reviews.Domain.deps.json
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\bin\Debug\net8.0\reviews.Domain.dll
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\bin\Debug\net8.0\reviews.Domain.pdb
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.AssemblyInfoInputs.cache
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.AssemblyInfo.cs
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.csproj.CoreCompileInputs.cache
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.dll
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\refint\reviews.Domain.dll
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\reviews.Domain.pdb
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Domain\obj\Debug\net8.0\ref\reviews.Domain.dll

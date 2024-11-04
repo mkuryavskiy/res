@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qEZ16WMTWjdTHNyHsDo4w1tcTWgWAhPE6dct6PKGMq8=",
+  "Source": "reviews.WebApi",
+  "BasePath": "_content/reviews.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

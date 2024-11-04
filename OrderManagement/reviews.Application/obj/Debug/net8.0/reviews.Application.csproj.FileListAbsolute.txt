@@ -1,0 +1,45 @@
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Application.deps.json
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Application.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Application.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Domain.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Domain.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.csproj.AssemblyReference.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.AssemblyInfoInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.AssemblyInfo.cs
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.csproj.CoreCompileInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews..02112EDE.Up2Date
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\obj\Debug\net8.0\refint\reviews.Application.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\OrderManagement\reviews.Application\obj\Debug\net8.0\ref\reviews.Application.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Application.deps.json
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Application.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Application.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Domain.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Domain.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.csproj.AssemblyReference.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.AssemblyInfoInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.AssemblyInfo.cs
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.csproj.CoreCompileInputs.cache
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews..02112EDE.Up2Date
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\refint\reviews.Application.dll
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.pdb
+C:\Users\lxrdu\OneDrive\Рабочий стол\Project\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\ref\reviews.Application.dll
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Application.deps.json
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Application.dll
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Application.pdb
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Domain.dll
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\bin\Debug\net8.0\reviews.Domain.pdb
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.csproj.AssemblyReference.cache
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.AssemblyInfoInputs.cache
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.AssemblyInfo.cs
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.csproj.CoreCompileInputs.cache
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews..02112EDE.Up2Date
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.dll
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\refint\reviews.Application.dll
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\reviews.Application.pdb
+C:\Users\resme\RiderProjects\Products tomka\OrderManagement\reviews.Application\obj\Debug\net8.0\ref\reviews.Application.dll

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CategoriesAPI",
+    "\\GatewayAPI",
+    "\\GatewayAPI\\Properties",
+    "\\ReviewsAPI",
+    "\\ReviewsAPI\\Data",
+    "\\ReviewsAPI\\PL",
+    "\\ReviewsAPI\\PL\\Properties"
+  ],
+  "PreviewInSolutionExplorer": false
+}

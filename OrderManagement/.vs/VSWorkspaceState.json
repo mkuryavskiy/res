@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\reviews.Application",
+    "\\reviews.Application\\Orders",
+    "\\reviews.Application\\Orders\\Commands",
+    "\\reviews.Application\\Orders\\Commands\\UpdateOrder",
+    "\\reviews.WebApi"
+  ],
+  "SelectedNode": "\\reviews.WebApi\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
